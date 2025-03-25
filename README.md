@@ -1,3 +1,5 @@
+***NOTE DE L'AUTEUR (Saphir Gobbi): Les fichiers code.c et code.h ont été modifié afin de complété l'activité.***
+
 # Présentation de l'activité
 
 Dans cette partie de l'activité, vous devez écrire des fonctions de manipulation de codes génétiques en utilisant la structure de données que vous souhaitez. Il n'y pas de contrainte particulière dans l'exercice et vous pouvez utiliser librement la bibliothèque standard. ( Cet exercice n'est pas un exercice de biologie et nous utiliserons une représentation et des opérations qui ne font qu'approximer ce qui se passe réellement. )
